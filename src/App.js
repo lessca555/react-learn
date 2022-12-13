@@ -14,6 +14,7 @@ function App() {
           </div>
           <div className='card-body'>
             <h5>Card body</h5>
+            <i class="fa-brands fa-facebook"></i>
           </div>
         </div>
 
